@@ -1,2 +1,2 @@
 # PR
-# The main files are the files whose names start with the word Run.   
+# The main files are the ones whose names start with the word Run.   
