@@ -1,0 +1,79 @@
+"GEO_ID"	"NAME"	"Emp2010"	"Emp2011"	"Emp2012"	"Emp2013"	"Emp2014"	"Emp2015"	"Emp2016"	"Emp2017"	"Emp2018"
+"1"	"72001"	"Adjuntas Municipio, Puerto Rico"	29.9	30.6	30.5	28.8	28	27.2	27.3	25	25.7
+"2"	"72003"	"Aguada Municipio, Puerto Rico"	35	34.8	33.8	33.1	34.2	35	35.5	36.5	36.1
+"3"	"72005"	"Aguadilla Municipio, Puerto Rico"	30.6	30.3	30.1	29.5	29.5	31.2	30.9	30.4	30.9
+"4"	"72007"	"Aguas Buenas Municipio, Puerto Rico"	33.6	30.8	28.7	29.3	29.2	29.1	30.3	33.9	34.9
+"5"	"72009"	"Aibonito Municipio, Puerto Rico"	33.7	34	33.1	31.3	29.9	29.5	30.1	31	34.2
+"6"	"72011"	"Añasco Municipio, Puerto Rico"	38.7	36.6	35.1	35.3	34.8	35.6	37	38.3	37.8
+"7"	"72013"	"Arecibo Municipio, Puerto Rico"	33	32.8	32.4	31.9	32	31.2	30.8	31	31.6
+"8"	"72015"	"Arroyo Municipio, Puerto Rico"	31.2	32.5	30.8	31.1	29.6	26.8	26.1	25.4	25.4
+"9"	"72017"	"Barceloneta Municipio, Puerto Rico"	34	33.1	30.9	28.2	28.1	27.5	27.2	28.5	30
+"10"	"72019"	"Barranquitas Municipio, Puerto Rico"	34.6	33.8	32	30.6	29.1	27.1	27	26.1	28.5
+"11"	"72021"	"Bayamón Municipio, Puerto Rico"	43.3	42.8	42.6	42.3	42.4	42.6	43	43	42.9
+"12"	"72023"	"Cabo Rojo Municipio, Puerto Rico"	36.8	33.2	31.6	30.8	30.2	30.4	31.7	30.6	29.9
+"13"	"72025"	"Caguas Municipio, Puerto Rico"	44.3	44.2	44.1	43.3	43.3	43.3	43.1	42.7	42.9
+"14"	"72027"	"Camuy Municipio, Puerto Rico"	35	35.2	34.4	35.2	35	32.5	32	33.1	32.1
+"15"	"72029"	"Canóvanas Municipio, Puerto Rico"	44.5	43.2	42.9	42.2	40.6	39.8	39.3	38.3	38.3
+"16"	"72031"	"Carolina Municipio, Puerto Rico"	47.6	47.3	47.5	46.8	46.6	46.7	46.9	46.6	45.9
+"17"	"72033"	"Cataño Municipio, Puerto Rico"	39.5	39.3	39.2	37.7	37.1	37.2	37.1	37.4	38.5
+"18"	"72035"	"Cayey Municipio, Puerto Rico"	41.7	43	42.6	42.2	42	42.1	40.4	39.5	38.5
+"19"	"72037"	"Ceiba Municipio, Puerto Rico"	40.7	41.2	38	36.2	36	36	34.3	34.9	35.9
+"20"	"72039"	"Ciales Municipio, Puerto Rico"	31.1	28	26.5	25.1	24.5	24.2	24.6	23.8	24.4
+"21"	"72041"	"Cidra Municipio, Puerto Rico"	44.5	46.6	47	46.4	44.7	44.6	40.7	39.3	37.2
+"22"	"72043"	"Coamo Municipio, Puerto Rico"	34.2	35.5	34.8	35.1	35.6	36.2	36.1	36.1	36.3
+"23"	"72045"	"Comerío Municipio, Puerto Rico"	31.8	30.9	29.6	29.3	30.5	29.5	29.7	31	29.6
+"24"	"72047"	"Corozal Municipio, Puerto Rico"	31.7	30.6	30.6	31.2	30.7	28.2	27.8	28.6	28.6
+"25"	"72049"	"Culebra Municipio, Puerto Rico"	53.2	48	45.7	48.2	53.9	52.1	56.1	55.2	54.6
+"26"	"72051"	"Dorado Municipio, Puerto Rico"	45.2	45	43.6	42.3	41.2	40.1	38.5	39.5	38.5
+"27"	"72053"	"Fajardo Municipio, Puerto Rico"	40.1	39.4	40.3	40	38.4	38.8	39.5	37.8	37.6
+"28"	"72054"	"Florida Municipio, Puerto Rico"	35.5	35	34.2	33.3	32	32	30.1	31.6	33.2
+"29"	"72055"	"Guánica Municipio, Puerto Rico"	27.3	26.1	26.7	24.8	24.5	26.4	24.6	23.7	25.1
+"30"	"72057"	"Guayama Municipio, Puerto Rico"	38.4	38	34.8	32.4	29.8	27.9	27.1	27.5	28
+"31"	"72059"	"Guayanilla Municipio, Puerto Rico"	29.9	29.5	27.3	27.4	28.3	28.5	28	28.8	30.4
+"32"	"72061"	"Guaynabo Municipio, Puerto Rico"	50.6	49.8	48.9	48.7	48.6	48	48.4	47.5	47.3
+"33"	"72063"	"Gurabo Municipio, Puerto Rico"	46.8	47.4	47.8	46.5	45.8	47.4	47.4	47	47.4
+"34"	"72065"	"Hatillo Municipio, Puerto Rico"	34.2	36.1	36.8	37.3	37.1	37.7	36.9	35.9	36.1
+"35"	"72067"	"Hormigueros Municipio, Puerto Rico"	39.9	38.6	37.6	35.8	34.1	35.2	35.2	35.1	35
+"36"	"72069"	"Humacao Municipio, Puerto Rico"	35.8	36.5	36.2	36.1	34.8	34.6	34.6	33.1	33.3
+"37"	"72071"	"Isabela Municipio, Puerto Rico"	30.6	30.2	30.7	30.7	29.8	29.1	29.3	30.4	30.6
+"38"	"72073"	"Jayuya Municipio, Puerto Rico"	36.8	37.5	36.4	33.8	28.1	27.4	25.2	26.3	27.7
+"39"	"72075"	"Juana Díaz Municipio, Puerto Rico"	38.9	37.2	35.3	36	37.6	38.5	39.1	39.4	39.1
+"40"	"72077"	"Juncos Municipio, Puerto Rico"	39.1	39	38.2	37.9	36.8	36.8	36	35.7	35.1
+"41"	"72079"	"Lajas Municipio, Puerto Rico"	28.8	26.1	24.5	25	24	24.5	24.8	25	23.6
+"42"	"72081"	"Lares Municipio, Puerto Rico"	31.7	30.1	28.3	26.6	27.4	26.6	27.1	27.1	29.4
+"43"	"72083"	"Las Marías Municipio, Puerto Rico"	38.2	39.8	37.7	37	34.1	33.3	33	32.3	30.9
+"44"	"72085"	"Las Piedras Municipio, Puerto Rico"	37	36.1	36.8	34.4	33.6	32.9	33.5	32.8	34
+"45"	"72087"	"Loíza Municipio, Puerto Rico"	42.2	40.7	39.7	39.6	38.6	37.7	37	34.6	35
+"46"	"72089"	"Luquillo Municipio, Puerto Rico"	41.7	39.1	39.1	38.9	37.8	36.1	37.5	36.4	36.9
+"47"	"72091"	"Manatí Municipio, Puerto Rico"	35.4	35.3	34.7	33.8	33.9	33.5	32.9	32.7	33.8
+"48"	"72093"	"Maricao Municipio, Puerto Rico"	38.9	37.6	36.9	36	33.3	29.9	28.7	29.4	25.8
+"49"	"72095"	"Maunabo Municipio, Puerto Rico"	31.7	27.7	29.5	29.4	26.5	25.8	25.2	24.2	24.4
+"50"	"72097"	"Mayagüez Municipio, Puerto Rico"	33.5	31.9	31.9	30.7	30.5	30.3	30.5	29.9	28.8
+"51"	"72099"	"Moca Municipio, Puerto Rico"	31.3	32.3	32.9	31.6	30.5	30.2	29.5	28.5	30
+"52"	"72101"	"Morovis Municipio, Puerto Rico"	31	30.5	29.5	30.8	32	30.5	32.1	33.5	33.9
+"53"	"72103"	"Naguabo Municipio, Puerto Rico"	35.8	37.5	36.5	36.5	35.1	34.8	34.2	33.5	33.3
+"54"	"72105"	"Naranjito Municipio, Puerto Rico"	31.6	30	30.5	29.8	31.3	30.7	32.6	32.2	32.1
+"55"	"72107"	"Orocovis Municipio, Puerto Rico"	32.1	30.5	29.9	27.3	26.9	25.3	26.3	25.5	25.3
+"56"	"72109"	"Patillas Municipio, Puerto Rico"	30.6	29.5	29	28.9	27	26	27	27.7	28.1
+"57"	"72111"	"Peñuelas Municipio, Puerto Rico"	34.3	32.7	33.7	32.3	30.9	30.7	30.7	31.1	30.6
+"58"	"72113"	"Ponce Municipio, Puerto Rico"	37.1	37.3	36.7	35.3	34	33.4	32.9	32.1	32.4
+"59"	"72115"	"Quebradillas Municipio, Puerto Rico"	29.6	29.5	28.8	28.9	29.5	31.2	31.4	32.5	34.4
+"60"	"72117"	"Rincón Municipio, Puerto Rico"	35.8	35.5	34.8	34.2	34.7	36	35.5	34.7	37.8
+"61"	"72119"	"Río Grande Municipio, Puerto Rico"	40.7	40.5	40.5	40.4	39.5	39.9	40.5	40.2	39.5
+"62"	"72121"	"Sabana Grande Municipio, Puerto Rico"	32.5	30.6	29.3	29.1	26.9	27.2	28.3	28	30
+"63"	"72123"	"Salinas Municipio, Puerto Rico"	31.7	32.1	32.2	32.7	33.9	32.9	33	35.7	34.5
+"64"	"72125"	"San Germán Municipio, Puerto Rico"	37	36	34.8	32.9	32.3	31.7	31.8	31.1	30.9
+"65"	"72127"	"San Juan Municipio, Puerto Rico"	46.2	45.5	45.5	44.6	44.4	43.6	43.5	43.3	43.6
+"66"	"72129"	"San Lorenzo Municipio, Puerto Rico"	39.4	38.8	38.4	36.6	35.8	35.3	34.9	35.8	36.5
+"67"	"72131"	"San Sebastián Municipio, Puerto Rico"	28.7	28.5	28.1	27.3	26	27	26.1	26.8	27.5
+"68"	"72133"	"Santa Isabel Municipio, Puerto Rico"	39.5	38.9	39.7	40.1	38.3	39	40.7	41.3	43.4
+"69"	"72135"	"Toa Alta Municipio, Puerto Rico"	42.8	44.9	46.2	45.1	45.6	45.5	45.2	44.5	45.1
+"70"	"72137"	"Toa Baja Municipio, Puerto Rico"	47.8	46.1	45.7	45.2	45.1	43.9	44	42.9	42.9
+"71"	"72139"	"Trujillo Alto Municipio, Puerto Rico"	51.1	50	49.5	49	48.1	48.9	48.4	49.2	48.8
+"72"	"72141"	"Utuado Municipio, Puerto Rico"	29	28.2	27.1	25.4	25.9	26.9	26.8	26.6	27
+"73"	"72143"	"Vega Alta Municipio, Puerto Rico"	34.1	32.9	31.8	31.6	32.5	31.6	31.9	31.1	32.3
+"74"	"72145"	"Vega Baja Municipio, Puerto Rico"	31.2	29.8	30	30.2	30	30	31.2	31.9	32.7
+"75"	"72147"	"Vieques Municipio, Puerto Rico"	40.8	41.9	41.1	41.6	38.7	39	40.6	41	35.3
+"76"	"72149"	"Villalba Municipio, Puerto Rico"	36.3	35.4	34.7	35.6	36	35	36.2	36.2	35.5
+"77"	"72151"	"Yabucoa Municipio, Puerto Rico"	32.1	30.5	29.9	29.2	27.7	27.8	28.3	27.6	28.6
+"78"	"72153"	"Yauco Municipio, Puerto Rico"	33.4	31.5	29.3	29.1	28.5	27.9	28.8	29.1	29.5

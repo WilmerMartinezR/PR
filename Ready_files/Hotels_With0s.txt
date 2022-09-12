@@ -1,0 +1,79 @@
+"GEO_ID"	"NAME"	"Hotels2014"	"Hotels2015"	"Hotels2016"	"Hotels2017"	"Hotels2018"
+"1"	"72001"	"Adjuntas Municipio, Puerto Rico"	0	0	0	0	0
+"2"	"72003"	"Aguada Municipio, Puerto Rico"	0	0	0	0	0
+"3"	"72005"	"Aguadilla Municipio, Puerto Rico"	5	3	3	10	10
+"4"	"72007"	"Aguas Buenas Municipio, Puerto Rico"	0	0	0	0	0
+"5"	"72009"	"Aibonito Municipio, Puerto Rico"	0	0	0	0	0
+"6"	"72011"	"Añasco Municipio, Puerto Rico"	2	2	2	3	3
+"7"	"72013"	"Arecibo Municipio, Puerto Rico"	4	4	3	3	3
+"8"	"72015"	"Arroyo Municipio, Puerto Rico"	0	0	0	0	0
+"9"	"72017"	"Barceloneta Municipio, Puerto Rico"	0	0	0	0	0
+"10"	"72019"	"Barranquitas Municipio, Puerto Rico"	0	0	0	0	0
+"11"	"72021"	"Bayamón Municipio, Puerto Rico"	4	5	5	4	4
+"12"	"72023"	"Cabo Rojo Municipio, Puerto Rico"	12	10	11	10	7
+"13"	"72025"	"Caguas Municipio, Puerto Rico"	2	2	2	3	3
+"14"	"72027"	"Camuy Municipio, Puerto Rico"	0	0	0	0	0
+"15"	"72029"	"Canóvanas Municipio, Puerto Rico"	0	0	0	0	0
+"16"	"72031"	"Carolina Municipio, Puerto Rico"	8	9	10	11	10
+"17"	"72033"	"Cataño Municipio, Puerto Rico"	0	0	0	0	0
+"18"	"72035"	"Cayey Municipio, Puerto Rico"	0	0	0	0	0
+"19"	"72037"	"Ceiba Municipio, Puerto Rico"	0	0	0	0	0
+"20"	"72039"	"Ciales Municipio, Puerto Rico"	0	0	0	0	0
+"21"	"72041"	"Cidra Municipio, Puerto Rico"	0	0	0	0	0
+"22"	"72043"	"Coamo Municipio, Puerto Rico"	0	0	0	0	0
+"23"	"72045"	"Comerío Municipio, Puerto Rico"	0	0	0	0	0
+"24"	"72047"	"Corozal Municipio, Puerto Rico"	0	0	0	0	0
+"25"	"72049"	"Culebra Municipio, Puerto Rico"	2	3	3	3	3
+"26"	"72051"	"Dorado Municipio, Puerto Rico"	5	4	4	5	5
+"27"	"72053"	"Fajardo Municipio, Puerto Rico"	0	0	0	0	0
+"28"	"72054"	"Florida Municipio, Puerto Rico"	0	0	0	0	0
+"29"	"72055"	"Guánica Municipio, Puerto Rico"	0	0	0	0	0
+"30"	"72057"	"Guayama Municipio, Puerto Rico"	0	0	0	0	0
+"31"	"72059"	"Guayanilla Municipio, Puerto Rico"	0	0	0	0	0
+"32"	"72061"	"Guaynabo Municipio, Puerto Rico"	0	0	0	0	0
+"33"	"72063"	"Gurabo Municipio, Puerto Rico"	0	0	0	0	0
+"34"	"72065"	"Hatillo Municipio, Puerto Rico"	0	0	0	0	0
+"35"	"72067"	"Hormigueros Municipio, Puerto Rico"	0	0	0	0	0
+"36"	"72069"	"Humacao Municipio, Puerto Rico"	0	0	0	0	0
+"37"	"72071"	"Isabela Municipio, Puerto Rico"	5	5	6	6	4
+"38"	"72073"	"Jayuya Municipio, Puerto Rico"	0	0	0	0	0
+"39"	"72075"	"Juana Díaz Municipio, Puerto Rico"	0	0	0	0	0
+"40"	"72077"	"Juncos Municipio, Puerto Rico"	0	0	0	0	0
+"41"	"72079"	"Lajas Municipio, Puerto Rico"	4	5	5	5	4
+"42"	"72081"	"Lares Municipio, Puerto Rico"	0	0	0	0	0
+"43"	"72083"	"Las Marías Municipio, Puerto Rico"	0	0	0	0	0
+"44"	"72085"	"Las Piedras Municipio, Puerto Rico"	2	2	2	4	4
+"45"	"72087"	"Loíza Municipio, Puerto Rico"	0	0	0	0	0
+"46"	"72089"	"Luquillo Municipio, Puerto Rico"	3	3	4	3	3
+"47"	"72091"	"Manatí Municipio, Puerto Rico"	0	0	0	0	0
+"48"	"72093"	"Maricao Municipio, Puerto Rico"	0	0	0	0	0
+"49"	"72095"	"Maunabo Municipio, Puerto Rico"	0	0	0	0	0
+"50"	"72097"	"Mayagüez Municipio, Puerto Rico"	2	2	3	4	4
+"51"	"72099"	"Moca Municipio, Puerto Rico"	0	0	0	0	0
+"52"	"72101"	"Morovis Municipio, Puerto Rico"	0	0	0	0	0
+"53"	"72103"	"Naguabo Municipio, Puerto Rico"	0	0	0	0	0
+"54"	"72105"	"Naranjito Municipio, Puerto Rico"	0	0	0	0	0
+"55"	"72107"	"Orocovis Municipio, Puerto Rico"	0	0	0	0	0
+"56"	"72109"	"Patillas Municipio, Puerto Rico"	0	0	0	0	0
+"57"	"72111"	"Peñuelas Municipio, Puerto Rico"	0	0	0	0	0
+"58"	"72113"	"Ponce Municipio, Puerto Rico"	7	8	6	10	9
+"59"	"72115"	"Quebradillas Municipio, Puerto Rico"	0	0	0	0	0
+"60"	"72117"	"Rincón Municipio, Puerto Rico"	6	8	7	9	6
+"61"	"72119"	"Río Grande Municipio, Puerto Rico"	7	8	10	8	6
+"62"	"72121"	"Sabana Grande Municipio, Puerto Rico"	0	0	0	0	0
+"63"	"72123"	"Salinas Municipio, Puerto Rico"	4	4	4	3	3
+"64"	"72125"	"San Germán Municipio, Puerto Rico"	0	0	0	0	0
+"65"	"72127"	"San Juan Municipio, Puerto Rico"	58	59	56	56	60
+"66"	"72129"	"San Lorenzo Municipio, Puerto Rico"	0	0	0	0	0
+"67"	"72131"	"San Sebastián Municipio, Puerto Rico"	0	0	0	0	0
+"68"	"72133"	"Santa Isabel Municipio, Puerto Rico"	0	0	0	0	0
+"69"	"72135"	"Toa Alta Municipio, Puerto Rico"	0	0	0	0	0
+"70"	"72137"	"Toa Baja Municipio, Puerto Rico"	3	3	3	3	3
+"71"	"72139"	"Trujillo Alto Municipio, Puerto Rico"	3	3	3	3	3
+"72"	"72141"	"Utuado Municipio, Puerto Rico"	0	0	0	0	0
+"73"	"72143"	"Vega Alta Municipio, Puerto Rico"	0	0	0	0	0
+"74"	"72145"	"Vega Baja Municipio, Puerto Rico"	0	0	0	0	0
+"75"	"72147"	"Vieques Municipio, Puerto Rico"	8	9	9	9	8
+"76"	"72149"	"Villalba Municipio, Puerto Rico"	0	0	0	0	0
+"77"	"72151"	"Yabucoa Municipio, Puerto Rico"	0	0	0	0	0
+"78"	"72153"	"Yauco Municipio, Puerto Rico"	0	0	0	0	0
