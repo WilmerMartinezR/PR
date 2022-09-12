@@ -1,2 +1,4 @@
 # PR
-# The main files are the ones whose names start with the word Run.   
+# The main files are the ones whose names start with the word Run. These files are split up by response: Median House, Suicicdes, etc.  
+# The ReadFiles*.R read the data available in the folder Ready_Files.
+
